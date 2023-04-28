@@ -1,0 +1,9 @@
+numpy
+pandas
+ipywidgets
+matplotlib
+sklearn
+datetime
+voila
+ipympl
+ipykernel
